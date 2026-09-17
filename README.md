@@ -9,3 +9,6 @@ Spotify Analysis
 
 > [!WARNING]
 > hey 
+
+
+![picture](./Assets/picture.png)
